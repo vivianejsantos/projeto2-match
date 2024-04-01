@@ -12,10 +12,7 @@ válido e maior que zero. </li>
 livro.
  </li>
 </ul>
-<div>
-  <h3>Teste no google colab</h3>  
-  <a href="https://colab.research.google.com/drive/1zkcM5X05T4U23eLRZ-c0gydzaHpJ4PVZ?usp=sharing#scrollTo=gyRzA-O7ufPV" target="_blank" ><img src="https://avatars.githubusercontent.com/u/33467679?s=200&v=4)](https://avatars.githubusercontent.com/u/33467679?s=200&v=4)" alt=""></a>
-</div>
+
 
 ## 🚀 Tecnologia usada
 <div>
